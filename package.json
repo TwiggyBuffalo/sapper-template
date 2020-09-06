@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "template",
+  "description": "Template",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
